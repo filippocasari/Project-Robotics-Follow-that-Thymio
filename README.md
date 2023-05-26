@@ -1,6 +1,6 @@
 # Project Robotics - "Follow that Thymio"
-@authors: AlessandroDeG, filippocasari
-RoboMaster follows the thymio that follows a line
+@authors: AlessandroDeG, filippocasari 
+## RoboMaster follows the thymio that follows a line
 
 
 # Videos
