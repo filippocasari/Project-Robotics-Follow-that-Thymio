@@ -1,7 +1,7 @@
 # Project Robotics - "Follow that Thymio"
 @authors: AlessandroDeG, filippocasari 
 ## RoboMaster follows the thymio that follows a line
-
+Thymio follows the line with sensors whereas RoboMaster is trained with a **CNN** to follow the thymio. 
 
 # Videos
 
